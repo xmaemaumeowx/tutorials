@@ -25,11 +25,12 @@ This project is a simple Task Manager web application built using TypeScript and
     Simply navigate to the project directory and open the `index.html` file with your preferred web browser.
 
 ## Project Structure
-
+``` bash
 task-manager/
 ├── index.html    # Main HTML file for the application
 ├── task.ts       # TypeScript code for the Task and TaskManager classes
 └── task.js       # Compiled JavaScript file (generated from task.ts)
+```
 ## Task and TaskManager Classes (TypeScript)
 
 ### Task Interface
